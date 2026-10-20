@@ -38,17 +38,28 @@ This is the public engineering showcase. The commercial implementation, deployme
 
 ## Promotional film
 
-[![SYBER ARENA promotional film, 56 seconds](assets/video/poster-main.png)](assets/video/syber-arena-main-56s-web.mp4)
+[![SYBER ARENA V3 promotional film, English main edition](assets/video/poster-v3-main.png)](https://github.com/Scoronosar0K0/syber-arena-showcase/releases/download/v3.0/syber-arena-v3-main-en.mp4)
 
-*Pre-release product demonstration with synthetic demonstration data. Every interface shot is a capture of the real Manager, Admin, Customer or PC Client application running against an isolated demonstration environment; the motion graphics and the soundtrack are original.*
+**Nine finished editions:** download the main film, vertical cut or teaser in English, Russian or Tajik below. Final encoded-file checks and sampled local browser playback passed for every edition.
 
-| Video | Format | File |
-| --- | --- | --- |
-| Main film | 56 s, 1920x1080, 30 fps | [syber-arena-main-56s-web.mp4](assets/video/syber-arena-main-56s-web.mp4) |
-| Vertical cut | 24 s, 1080x1920, 30 fps | [syber-arena-vertical-24s-web.mp4](assets/video/syber-arena-vertical-24s-web.mp4) |
-| Teaser | 12 s, 1920x1080, 30 fps | [syber-arena-teaser-12s-web.mp4](assets/video/syber-arena-teaser-12s-web.mp4) |
+V3 presents genuine demonstration imagery through perspective camera moves, layered glass panels and animated Cloud/club-server/PC connections. An original instrumental score is joined by procedural interface ticks, panel contacts, transition effects and action-synchronized confirmations.
 
-The film includes a cloud-link interruption sequence recorded during an isolated local test. In that test the club desk kept taking a cash top-up, and the Manager's link indicator returned to connected afterwards. It shows one demonstrated normal case, not a guarantee of availability or lossless recovery. See the [demonstration asset notes](docs/demonstrations.md).
+The motion captions are available in English, Russian and Tajik Cyrillic. Application imagery remains in English, and there is no voiceover. All shown records are synthetic; SYBER ARENA remains a pre-release product.
+
+| Cut | Format | English | Russian | Tajik |
+| --- | --- | --- | --- | --- |
+| Main film | 56 s · 1920×1080 · 30 fps | [EN MP4](https://github.com/Scoronosar0K0/syber-arena-showcase/releases/download/v3.0/syber-arena-v3-main-en.mp4) | [RU MP4](https://github.com/Scoronosar0K0/syber-arena-showcase/releases/download/v3.0/syber-arena-v3-main-ru.mp4) | [TG MP4](https://github.com/Scoronosar0K0/syber-arena-showcase/releases/download/v3.0/syber-arena-v3-main-tg.mp4) |
+| Vertical cut | 24 s · 1080×1920 · 30 fps | [EN MP4](https://github.com/Scoronosar0K0/syber-arena-showcase/releases/download/v3.0/syber-arena-v3-vertical-en.mp4) | [RU MP4](https://github.com/Scoronosar0K0/syber-arena-showcase/releases/download/v3.0/syber-arena-v3-vertical-ru.mp4) | [TG MP4](https://github.com/Scoronosar0K0/syber-arena-showcase/releases/download/v3.0/syber-arena-v3-vertical-tg.mp4) |
+| Teaser | 12 s · 1920×1080 · 30 fps | [EN MP4](https://github.com/Scoronosar0K0/syber-arena-showcase/releases/download/v3.0/syber-arena-v3-teaser-en.mp4) | [RU MP4](https://github.com/Scoronosar0K0/syber-arena-showcase/releases/download/v3.0/syber-arena-v3-teaser-ru.mp4) | [TG MP4](https://github.com/Scoronosar0K0/syber-arena-showcase/releases/download/v3.0/syber-arena-v3-teaser-tg.mp4) |
+
+The main and vertical cuts illustrate selected local operations during a Cloud-link interruption. A working club server and local network are required; online services still need connectivity. Reconnection demonstrates a returning link indicator, not guaranteed availability or lossless recovery. See the [demonstration asset notes](docs/demonstrations.md).
+
+<details>
+<summary>Previous V2 English edition</summary>
+
+The earlier edit is preserved: [56 s main](assets/video/syber-arena-main-56s-web.mp4), [24 s vertical](assets/video/syber-arena-vertical-24s-web.mp4) and [12 s teaser](assets/video/syber-arena-teaser-12s-web.mp4). Its [main poster](assets/video/poster-main.png) remains available.
+
+</details>
 
 ## Engineering overview
 
