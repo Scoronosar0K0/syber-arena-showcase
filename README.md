@@ -38,6 +38,25 @@ This is the public engineering showcase. The commercial implementation, deployme
 
 ## Promotional film
 
+[![SYBER ARENA V4 promotional film, English main edition](assets/video/poster-v4-main.png)](https://github.com/Scoronosar0K0/syber-arena-showcase/releases/download/v4.0/syber-arena-v4-main-en.mp4)
+
+**Nine completed V4 editions:** the main film, portrait cut and teaser are available in English, Russian and Tajik. All nine passed full compressed-frame/audio checks, representative image review and sampled local Chrome playback. Earlier editions remain available below.
+
+V4 uses genuine English, Russian and Tajik interfaces from all four applications: Manager, Admin, Customer and Gaming-PC Client. Continuous spatial transitions connect large UI details, while the portrait cut pairs the native mobile Customer layout with readable Manager and PC Client details. The Client remains a gaming-PC interface.
+
+An original synthesized instrumental bed is joined by a newly scored procedural SFX layer, with selective camera movement, panel contacts and accents tied to demonstrated session, order and connection states. Reading holds are still and frontal. There is no voiceover.
+
+| Cut | Format | English | Russian | Tajik Cyrillic |
+| --- | --- | --- | --- | --- |
+| Main film | 56 s · 1920×1080 · 30 fps | [EN MP4](https://github.com/Scoronosar0K0/syber-arena-showcase/releases/download/v4.0/syber-arena-v4-main-en.mp4) | [RU MP4](https://github.com/Scoronosar0K0/syber-arena-showcase/releases/download/v4.0/syber-arena-v4-main-ru.mp4) | [TG MP4](https://github.com/Scoronosar0K0/syber-arena-showcase/releases/download/v4.0/syber-arena-v4-main-tg.mp4) |
+| Vertical cut | 24 s · 1080×1920 · 30 fps | [EN MP4](https://github.com/Scoronosar0K0/syber-arena-showcase/releases/download/v4.0/syber-arena-v4-vertical-en.mp4) | [RU MP4](https://github.com/Scoronosar0K0/syber-arena-showcase/releases/download/v4.0/syber-arena-v4-vertical-ru.mp4) | [TG MP4](https://github.com/Scoronosar0K0/syber-arena-showcase/releases/download/v4.0/syber-arena-v4-vertical-tg.mp4) |
+| Teaser | 12 s · 1920×1080 · 30 fps | [EN MP4](https://github.com/Scoronosar0K0/syber-arena-showcase/releases/download/v4.0/syber-arena-v4-teaser-en.mp4) | [RU MP4](https://github.com/Scoronosar0K0/syber-arena-showcase/releases/download/v4.0/syber-arena-v4-teaser-ru.mp4) | [TG MP4](https://github.com/Scoronosar0K0/syber-arena-showcase/releases/download/v4.0/syber-arena-v4-teaser-tg.mp4) |
+
+All records are synthetic and the product remains pre-release. The isolated demonstration uses simulated workstations; it does not prove Windows Agent enforcement. The local-operation sequence shows a cash float transaction with the Cloud link interrupted and the club server and LAN working. The separate checkout was captured while connected. Online services still require connectivity, and a returning link indicator does not establish lossless recovery. See the [demonstration asset notes](docs/demonstrations.md) and [verification scope](docs/verification.md).
+
+<details>
+<summary>Previous V3 English, Russian and Tajik editions</summary>
+
 [![SYBER ARENA V3 promotional film, English main edition](assets/video/poster-v3-main.png)](https://github.com/Scoronosar0K0/syber-arena-showcase/releases/download/v3.0/syber-arena-v3-main-en.mp4)
 
 **Nine finished editions:** download the main film, vertical cut or teaser in English, Russian or Tajik below. Final encoded-file checks and sampled local browser playback passed for every edition.
@@ -53,6 +72,8 @@ The motion captions are available in English, Russian and Tajik Cyrillic. Applic
 | Teaser | 12 s · 1920×1080 · 30 fps | [EN MP4](https://github.com/Scoronosar0K0/syber-arena-showcase/releases/download/v3.0/syber-arena-v3-teaser-en.mp4) | [RU MP4](https://github.com/Scoronosar0K0/syber-arena-showcase/releases/download/v3.0/syber-arena-v3-teaser-ru.mp4) | [TG MP4](https://github.com/Scoronosar0K0/syber-arena-showcase/releases/download/v3.0/syber-arena-v3-teaser-tg.mp4) |
 
 The main and vertical cuts illustrate selected local operations during a Cloud-link interruption. A working club server and local network are required; online services still need connectivity. Reconnection demonstrates a returning link indicator, not guaranteed availability or lossless recovery. See the [demonstration asset notes](docs/demonstrations.md).
+
+</details>
 
 <details>
 <summary>Previous V2 English edition</summary>
@@ -87,7 +108,7 @@ The cloud handles centralized product concerns; the club server owns local opera
 
 Source inspection confirms sessions and billing, customer wallets and bookings, local desk/cash and POS workflows, owner reports, PC status/session controls and Cloud/Edge synchronization code. Authentic demonstration captures show selected interface workflows.
 
-The architecture supports selected local club operations during a cloud interruption. The promotional film includes footage from an isolated cloud-link interruption test (link indicator amber, a cash top-up at the desk, then the indicator back to connected). This is not a guarantee that every feature remains available offline or that recovery is lossless in every failure mode.
+The architecture supports selected local club operations during a cloud interruption. V4 captures a local cash float operation with the Cloud link interrupted, followed by a returning connected indicator. Its separate product checkout was captured online. These software demonstrations use simulated workstations; they do not establish Windows Agent enforcement, availability of every feature offline or lossless recovery in every failure mode.
 
 ## Important engineering decisions
 
